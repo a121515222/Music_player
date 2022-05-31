@@ -2,7 +2,7 @@
 ![](https://i.imgur.com/7MRWBDq.jpg)
 
 ## 專案說明
-> Demo Website : https://zihyinhsu.github.io/Music_player/#
+> Demo Website : https://a121515222.github.io/Music_player/
 
 > UI Design By Natsu
 
@@ -35,7 +35,7 @@
 ### By 群嘉
 - 歌單拖曳功能
 - 播放歌曲時間轉換、手刻進度條
-- 亂數播放功能
+- 播放清單顯示現在播放歌曲
 - 從 Heroku 取得 Youtube 資料
 
 ![](https://i.imgur.com/D3mTX8K.png)
